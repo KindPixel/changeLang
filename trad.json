@@ -1,0 +1,71 @@
+{   "languages" : {
+
+    "fr" : {
+        "strings" : {
+            "text-yes" : "oui",
+            "text-no" : "non",
+            "accueil" : "Accueil",
+            "nousconnaitre" : "Nous connaître",
+            "solutions" : "Solutions Assurance",
+            "autresolution":"Autres solutions",
+            "carrieres":"Carrières",
+            "contacte":"Contacte",
+            "def1":"Le succès de votre transformation digitale doit s’appuyer sur un ERP pleinement conçu pour en relever les défis.",
+            "def2":"La suite logicielle Sunshine Evolution 5.0 propose une large gamme de solutions métier dédiées à l’assurance de personnes : assurance emprunteur, assurance vie-décès, épargne, santé, rentes etc.",
+            "btndecouvrez":"Découvrez",
+            "def3":"Développeurs & professionnels de l'informatique",
+            "def4":"Vous êtes ingénieur, développeur, analyste ou architecte ? Dans une SSII, une association, une collectivité, une entreprise ?",
+            "def5":"Alias Screen Designer for Eclipse",
+            "def6":"Plug-in innovant pour la conception de pages HTML 5 dynamiques 100% en mode graphique.",
+            "def7":"Profitez d'un espace de travail ergonomique et convivial facilitant la conception de tous vos formulaires JSP et PHP !",
+            "def9":"Alias Application Designer",
+            "def10":"AGL multisectoriel pour développer vos applications J2EE.",
+            "def11":"Avec Alias Application Designer, vous allez pouvoir créer sans programmation et plus rapidement des applications de gestion 100% technologies Web.",
+            "def12":"Mikado",
+            "def13":"Plateforme de développement J2EE pour bâtir des solutions sur mesure ou rénover des applicatifs existants.",
+            "def14":"Parfaite prise en compte du contexte informatique client, spécialement adapté au secteur assurantiel Vie et IARD.",
+            "def17":"Quels que soient votre taille et votre domaine métier, découvrez l'offre qui s'adapte à vos mesures.Sun i-tech propose une offre complète de solutions et d’outils pour répondre aux enjeux métiers, commerciaux et numériques des compagnies d’assurances, mutuelles, institutions de prévoyance, courtiers et délégataires de gestion.Nos ERP métier assurance de personnes back et middle office 100% web J2EE.",
+            "def18":"Pas d’affaire nouvelle sans apporteur... Notre solution pour la gestion des réseaux d’agents captifs ou indépendants, vos courtiers et tous vos intermédiaires.",
+            "def19":"Développement sur-mesure, projets de transformation digitale, refonte de briques métier etc.",
+            "def20":"Voir nos solutions",
+            "def21":"Découvrez la Gamme Sunshine Evolution 5.0",
+            "def22":"Découvrez notre ERP pour la gestion des réseaux et du commissionnement",
+            "def23":"Découvrez notre plateforme de développement Mikado dédiée à l’assurance"
+        }
+    },
+
+    "en" : {
+        "strings" : {
+            "text-yes" : "yes",
+            "text-no" : "no",
+            "accueil" : "Home",
+            "nousconnaitre" : "Know us",
+            "solutions" : "Insurance Solutions",
+            "autresolution":"Other solutions",
+            "carrieres":"Carrières",
+            "contacte":"Contacte",
+            "def1":"The success of your digital transformation must rely on an ERP that is fully designed to meet the challenges.",
+            "def2":"The Sunshine Evolution 5.0 software suite offers a wide range of business solutions dedicated to life and health insurance: creditor insurance, life-death insurance, savings, health, annuities, etc.",
+            "btndecouvrez":"Discover",
+            "def3":"Developers & IT Professionals",
+            "def4":"Are you an engineer, developer, analyst or architect? In an IT services company, an association, a community, a company?",
+            "def5":"Alias Screen Designer for Eclipse",
+            "def6":"Innovative plug-in for the design of dynamic HTML 5 pages 100% in graphic mode.",
+            "def7":"Take advantage of an ergonomic and user-friendly workspace facilitating the design of all your JSP and PHP forms!",
+            "def9":"Alias Application Designer",
+            "def10":"Multisector AGL to develop your J2EE applications.",
+            "def11":"With Alias ​​Application Designer, you will be able to create, without programming and more quickly, management applications that are 100% Web technologies.",
+            "def12":"Mikado",
+            "def13":"J2EE development platform to build tailor-made solutions or renovate existing applications.",
+            "def14":"Perfect consideration of the client IT context, specially adapted to the Life and P&C insurance sector.",
+            "def17":"Whatever your size and your business area, discover the offer that adapts to your measures Sun i-tech offers a complete range of solutions and tools to meet the business, commercial and digital challenges of insurance companies , mutuals, provident institutions, brokers and management delegatees. Our ERP personal insurance business back and middle office 100% J2EE web.",
+            "def18":"No new business without a provider ... Our solution for managing networks of captive or independent agents, your brokers and all your intermediaries.",
+            "def19":"Tailor-made development, digital transformation projects, redesign of business bricks etc.",
+            "def20":"See our solutions",
+            "def21":"Discover the Sunshine Evolution 5.0",
+            "def22":"Discover our ERP for network and commission management",
+            "def23":"Discover our Mikado development platform dedicated to insurance"
+        }
+    }
+}
+}
